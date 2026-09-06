@@ -1,0 +1,14 @@
+{
+  "name": "dinetdigital-plugins",
+  "owner": {
+    "name": "Sunil"
+  },
+  "description": "Claude Code plugin marketplace for DINetDigital-owned agent skills.",
+  "plugins": [
+    {
+      "name": "agent-creation-orchestration",
+      "source": "./plugins/agent-creation-orchestration",
+      "description": "Design and implement production-minded AI agents and multi-agent orchestration (LangGraph supervisors, contextual engineering, agentic RAG, memory, guardrails, loop engineering, eval, threat detection)."
+    }
+  ]
+}
