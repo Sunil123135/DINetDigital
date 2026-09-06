@@ -1,0 +1,8 @@
+{
+  "name": "agent-creation-orchestration",
+  "description": "Design and implement production-minded AI agents and multi-agent orchestration using patterns distilled from Fareed Khan's Medium/Level Up articles (LangGraph supervisors, contextual engineering, agentic RAG, memory, guardrails, loop engineering, eval, threat detection).",
+  "version": "1.0.0",
+  "author": {
+    "name": "Sunil"
+  }
+}
